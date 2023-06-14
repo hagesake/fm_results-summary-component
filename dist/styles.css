@@ -909,6 +909,14 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
+.duration-200 {
+  transition-duration: 200ms;
+}
+
+.hover\:bg-gradient-to-b:hover {
+  background-image: linear-gradient(to bottom, var(--tw-gradient-stops));
+}
+
 @media (min-width: 1440px) {
   .mylg\:relative {
     position: relative;
