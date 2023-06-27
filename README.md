@@ -11,7 +11,6 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 ## Overview
@@ -24,15 +23,6 @@ Users should be able to:
 
 - View the optimal layout for the interface depending on their device's screen size
 - See hover and focus states for all interactive elements on the page
-
-### Screenshot
-
-![Alt text](images-resources/image-1.png)
-Screenshot of the final result with the layout for 1440px width
-
-![Alt text](images-resources/image.png)
-
-Screenshot of the final result with the layout for 375pxc width
 
 ### Links
 
@@ -63,7 +53,7 @@ The resulting HTML code,
 
 may seem bloated and full of classes names but the use of utility classes remove the pain of struggling with how we name our classes to apply styles to HTML tags. Another advantage I've noticed is the fast prototyping capabilities that Tailwindcss utility classes allow.
 
-Need to highlight that previous knowledge and experience with just plain and regular CSS is a must when talking about applying styles with Tailwindcss. Using the framework with no prior experience with CSS properties for styling and layouts is like trying to pilot a starship but with no equipment, no crew and no starship.
+Need to highlight that previous knowledge and experience with just plain and regular CSS is a must have when talking about applying styles with Tailwindcss. Using the framework with no prior experience with CSS properties for styling and layouts is like trying to pilot a starship but with no equipment, no crew and no starship.
 
 ### Continued development
 
@@ -71,5 +61,5 @@ In the development of the project I struggle with positioning, specially in the 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/hagesake)
-- Twitter - [@yourusername](https://www.twitter.com/hage_sake)
+- Frontend Mentor - [@hagesake](https://www.frontendmentor.io/profile/hagesake)
+- Twitter - [@hage_sake](https://www.twitter.com/hage_sake)
